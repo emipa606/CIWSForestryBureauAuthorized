@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 709300149
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ea458e91a4390521b015b441641c8a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2ea458e91a4390521b015b441641c8a9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/TreeBoligangshu/TreeBoligangshuA.png
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/TreeShushengyang/TreeShushengyangA.png
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/TreeYoushu/TreeYoushuA.png
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/TreeShushengyang/TreeShushengyang_LeaflessA.png
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/TreeBoligangshu/TreeBoligangshu_LeaflessA.png
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/TreeYinshu/TreeYinshu_LeaflessA.png
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/TreeYinshu/TreeYinshuA.png
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/TreeTieshu/TreeTieshuA.png
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/TreeJixieshu/TreeJixieshuA.png
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/CLWSSanQi/CLWSSanQiA.png
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/TreeYoushu/TreeYoushu_LeaflessA.png
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/TreeJixieshu/TreeJixieshu_LeaflessA.png
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/CLWSSanQi/CLWSSanQi_LeaflessA.png
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/bak.png
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/TreeJinshu/TreeJinshu_LeaflessA.png
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/TreeJinshu/TreeJinshuA.png
+- Assets/Data/Mlie.CIWSForestryBureauAuthorized/Textures/Things/Plant/TreeTieshu/TreeTieshu_LeaflessA.png
+Dependencies: []
